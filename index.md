@@ -19,6 +19,8 @@ RWPLは，ペネトレーションテストの勉強を通じて，その夢を�
 
 ---
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT80OyK6SQtkk-TkzqJfy_62HLx9DaNHZt0m-6uR3BstIAJGiHkUdVII_sM310Cjd7rowNKNGtVwZ4r/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 # イベント
 月に１回やったりやらなかったりします．
 イベントの告知は[Connpass](https://rwpl.connpass.com/)や[Twitter](https://twitter.com/rwplabs)で行っています．
@@ -73,10 +75,5 @@ RWPLは，ペネトレーションテストの勉強を通じて，その夢を�
 26人(2022年8月27日現在)ものハッカーが参加し互いに技術を教え合う場所を[Discord](https://discord.com/)上で運営しています．
 参加については[RWPLのTwitter](https://twitter.com/rwplabs)まで．
 
----
 
 &copy; 2021-{{ "now" | date: "%Y" }} RWPL
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
