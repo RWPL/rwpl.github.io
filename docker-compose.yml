@@ -1,9 +1,13 @@
-version: "3.5"
+version: "3.8"
 
 services:
   jekyll:
     build:
       context: ./
+      args:
+        NODE_VERSION: "22.14.0"
+        BUNDLER_VERSION: "2.3.5"
+
     ports:
       - 4000:4000
     volumes:
@@ -11,4 +15,3 @@ services:
     stdin_open: true
     tty: true
     command: bundle exec jekyll serve -H 0.0.0.0 -t
-
