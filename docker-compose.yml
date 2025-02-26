@@ -4,9 +4,6 @@ services:
   jekyll:
     build:
       context: ./
-      args:
-        NODE_VERSION: "22.14.0"
-        BUNDLER_VERSION: "2.3.5"
 
     ports:
       - 4000:4000

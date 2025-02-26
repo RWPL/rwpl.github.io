@@ -12,10 +12,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 
-ARG BUNDLER_VERSION=2.3.5
+ARG BUNDLER_VERSION=2.3.27
 ENV BUNDLER_VERSION=${BUNDLER_VERSION}
 RUN gem install bundler -v ${BUNDLER_VERSION}
-RUN git config --global --add safe.directory /usr/src/app
+RUN git config --global --add safe.directory /srv/jekyll
 
 EXPOSE 4000
 
