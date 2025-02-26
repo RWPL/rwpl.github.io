@@ -12,4 +12,4 @@ nav_order: desc
 
 ## RWPLについてご質問のある方
 
-[Twitter](https://twitter.com/rwplabs)のDMへご連絡ください．
+[X(旧Twitter)](https://twitter.com/rwplabs)のDMへご連絡ください．
