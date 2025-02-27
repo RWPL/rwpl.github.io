@@ -27,7 +27,7 @@ RWPLは，ペネトレーションテストの勉強を通じて，その夢を�
 
 ## 開催予定イベント
 ## SECCON 13 電脳会議 (2025年3月1日)
-<iframe src="https://docs.google.com/presentation/d/18Ezt6IQGVHoX4-swzEG_aUHQUN_f4t5Fd1hTk39MVLo/edit?usp=sharing" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRRTzgFcaJPpL2x6My_OJrS3mvX_j42s83fag2YFJoxh68hMyhllbR1c7FVDucr2PihjTg8KHrMs2R/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ※ イベントの詳細は準備中です。最新情報は[X(旧Twitter)](https://twitter.com/rwplabs)にて告知いたします。
 
